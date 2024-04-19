@@ -11,5 +11,5 @@ spec:
       protocol: TCP
       port: 80
       targetPort: 80
-  loadBalancerIP: 19.10.3.20
+  loadBalancerIP: 10.10.3.20
 
